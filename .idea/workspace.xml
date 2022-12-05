@@ -4,45 +4,250 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b8cf38a-8cb8-47ce-9d44-677a354e47c4" name="Changes" comment="" />
+    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Made some design changes." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/.htaccess" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/index.php" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/maximus/applications.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/maximus/dashboard/index.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/maximus/index.php" root0="FORCE_HIGHLIGHTING" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2ITKUdDzrCtv8uKLxpJGOahKH46" />
+  <component name="ProjectId" id="2ITz8Ld7lQAmt1umKbz2j111ULj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="ReadonlyStatusHandler">
-    <option name="SHOW_DIALOG" value="false" />
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6b8cf38a-8cb8-47ce-9d44-677a354e47c4" name="Changes" comment="" />
-      <created>1670200149570</created>
+      <changelist id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="" />
+      <created>1670220200924</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670200149570</updated>
+      <updated>1670220200924</updated>
     </task>
+    <task id="LOCAL-00001" summary="Main website (HTML5) work/backup">
+      <created>1670220503510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670220503510</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated branding.">
+      <created>1670220619893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670220619893</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Removed unnecessary styling.">
+      <created>1670221265542</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670221265542</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Removed unnecessary styling.">
+      <created>1670221386661</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670221386661</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed 3rd article.">
+      <created>1670222443391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670222443391</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Completed 4th and 5th article.">
+      <created>1670222926844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670222926844</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Corrected 5th ID.">
+      <created>1670222992842</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670222992842</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added 7.">
+      <created>1670224835450</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670224835450</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added IDs 8, 9, and 10.">
+      <created>1670226044517</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670226044517</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added IDs 8, 9, and 10.">
+      <created>1670226179387</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670226179387</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fixed formatting in 7.">
+      <created>1670227294891</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670227294891</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fixed formatting in 7.">
+      <created>1670227414148</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670227414148</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fixed formatting.">
+      <created>1670229159775</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670229159775</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fixed formatting.">
+      <created>1670229437090</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670229437090</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added navbar.">
+      <created>1670230745981</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670230745981</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added news and contact page.">
+      <created>1670230941362</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670230941362</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added news and contact page.">
+      <created>1670231023130</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670231023130</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fixed formatting.">
+      <created>1670231194562</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1670231194562</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fixed formatting.">
+      <created>1670231242685</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1670231242685</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Removed topnav.">
+      <created>1670268597893</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670268597893</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Cleared index.php and set directory index to index.html">
+      <created>1670268897943</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1670268897943</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Made some design changes.">
+      <created>1670271041815</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1670271041815</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Made some design changes.">
+      <created>1670271085285</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1670271085285</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Made some design changes.">
+      <created>1670272225135</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1670272225135</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Made some design changes.">
+      <created>1670275611168</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1670275611168</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Main website (HTML5) work/backup" />
+    <MESSAGE value="Updated branding." />
+    <MESSAGE value="Removed unnecessary styling." />
+    <MESSAGE value="Completed 3rd article." />
+    <MESSAGE value="Completed 4th and 5th article." />
+    <MESSAGE value="Corrected 5th ID." />
+    <MESSAGE value="Added 7." />
+    <MESSAGE value="Added IDs 8, 9, and 10." />
+    <MESSAGE value="Fixed formatting in 7." />
+    <MESSAGE value="Fixed formatting." />
+    <MESSAGE value="Added navbar." />
+    <MESSAGE value="Added news and contact page." />
+    <MESSAGE value="fixed formatting." />
+    <MESSAGE value="Removed topnav." />
+    <MESSAGE value="Cleared index.php and set directory index to index.html" />
+    <MESSAGE value="Made some design changes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Made some design changes." />
   </component>
 </project>
