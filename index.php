@@ -758,12 +758,13 @@ We may update this privacy notice from time to time. The updated version will be
 <div><br></div>
 If you have questions or comments about this notice, you may
 email us at max@maximus-sallam.com or by post to:
-<div></div>
+<div>
 <br>Maximus Sallam
 <br>27727 Michigan Ave
 <br>Apt. 508
 <br>Inkster, MI 48141
 <br>United States
+</div>
 
 <div><br></div>
 
