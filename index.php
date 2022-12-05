@@ -1,7 +1,6 @@
 PRIVACY NOTICE
 <br>Last updated December 4, 2022
 
-
 <div><br></div>
 
 <div>
