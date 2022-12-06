@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Made some design changes.">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/htdocs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/htdocs.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy.html" afterDir="false" />
-    </list>
+    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Add next button to privacy policy." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670220200924</updated>
-      <workItem from="1670283368203" duration="1789000" />
+      <workItem from="1670283368203" duration="2115000" />
     </task>
     <task id="LOCAL-00001" summary="Main website (HTML5) work/backup">
       <created>1670220503510</created>
@@ -261,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670275611168</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add next button to privacy policy.">
+      <created>1670286028068</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1670286028068</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,6 +297,7 @@
     <MESSAGE value="Removed topnav." />
     <MESSAGE value="Cleared index.php and set directory index to index.html" />
     <MESSAGE value="Made some design changes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Made some design changes." />
+    <MESSAGE value="Add next button to privacy policy." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add next button to privacy policy." />
   </component>
 </project>
