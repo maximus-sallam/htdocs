@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Add next button to privacy policy.">
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mustang.html" afterDir="false" />
+    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Imported fonts causing CORS errors.">
+      <change afterPath="$PROJECT_DIR$/assets/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/ElegantIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/ElegantIcons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/action.php" beforeDir="false" afterPath="$PROJECT_DIR$/action.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator.html" beforeDir="false" afterPath="$PROJECT_DIR$/generator.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670220200924</updated>
-      <workItem from="1670283368203" duration="6824000" />
+      <workItem from="1670283368203" duration="7214000" />
     </task>
     <task id="LOCAL-00001" summary="Main website (HTML5) work/backup">
       <created>1670220503510</created>
@@ -281,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670286523346</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Added product page from https://shiftup.qodeinteractive.com/product/generator/ for modification.">
+      <created>1670524185592</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1670524185592</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,6 +328,8 @@
     <MESSAGE value="Cleared index.php and set directory index to index.html" />
     <MESSAGE value="Made some design changes." />
     <MESSAGE value="Add next button to privacy policy." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add next button to privacy policy." />
+    <MESSAGE value="Added product page from https://shiftup.qodeinteractive.com/product/generator/ for modification." />
+    <MESSAGE value="Imported fonts causing CORS errors." />
+    <option name="LAST_COMMIT_MESSAGE" value="Imported fonts causing CORS errors." />
   </component>
 </project>
