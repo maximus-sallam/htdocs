@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Updated CSS to load fonts internally.">
+    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Fixed issues with CSS and fonts loading internally.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/generator.html" beforeDir="false" afterPath="$PROJECT_DIR$/generator.html" afterDir="false" />
     </list>
@@ -81,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670220200924</updated>
-      <workItem from="1670283368203" duration="10374000" />
+      <workItem from="1670283368203" duration="11508000" />
     </task>
     <task id="LOCAL-00001" summary="Main website (HTML5) work/backup">
       <created>1670220503510</created>
@@ -314,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670527598296</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Fixed issues with CSS and fonts loading internally.">
+      <created>1670528843751</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1670528843751</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,6 +360,7 @@
     <MESSAGE value="Added product page from https://shiftup.qodeinteractive.com/product/generator/ for modification." />
     <MESSAGE value="Imported fonts causing CORS errors." />
     <MESSAGE value="Updated CSS to load fonts internally." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated CSS to load fonts internally." />
+    <MESSAGE value="Fixed issues with CSS and fonts loading internally." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed issues with CSS and fonts loading internally." />
   </component>
 </project>
