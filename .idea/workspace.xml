@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Imported fonts causing CORS errors.">
-      <change beforePath="$PROJECT_DIR$/assets/css/all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/all.min.css" afterDir="false" />
+    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Updated CSS to load fonts internally.">
+      <change afterPath="$PROJECT_DIR$/.generator.html.swp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670220200924</updated>
-      <workItem from="1670283368203" duration="8107000" />
+      <workItem from="1670283368203" duration="9346000" />
     </task>
     <task id="LOCAL-00001" summary="Main website (HTML5) work/backup">
       <created>1670220503510</created>
@@ -292,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670524922774</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Updated CSS to load fonts internally.">
+      <created>1670526129370</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1670526129370</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,6 +338,7 @@
     <MESSAGE value="Add next button to privacy policy." />
     <MESSAGE value="Added product page from https://shiftup.qodeinteractive.com/product/generator/ for modification." />
     <MESSAGE value="Imported fonts causing CORS errors." />
-    <option name="LAST_COMMIT_MESSAGE" value="Imported fonts causing CORS errors." />
+    <MESSAGE value="Updated CSS to load fonts internally." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated CSS to load fonts internally." />
   </component>
 </project>
