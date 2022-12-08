@@ -29,4 +29,4 @@ $web->go(htmlspecialchars($_POST['URL']));
 foreach($web->images as $img) {
     echo '<img src="'.$img.'" alt="">';
 }
-//var_dump($web->images);
+var_dump($web->images);
