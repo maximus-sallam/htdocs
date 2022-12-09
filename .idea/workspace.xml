@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Fixed issues with CSS and fonts loading internally." />
+    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Fixed other issues.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670220200924</updated>
-      <workItem from="1670283368203" duration="13595000" />
+      <workItem from="1670283368203" duration="16684000" />
     </task>
     <task id="LOCAL-00001" summary="Main website (HTML5) work/backup">
       <created>1670220503510</created>
@@ -360,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670531131544</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Fixed other issues.">
+      <created>1670531351481</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1670531351481</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,6 +409,7 @@
     <MESSAGE value="Imported fonts causing CORS errors." />
     <MESSAGE value="Updated CSS to load fonts internally." />
     <MESSAGE value="Fixed issues with CSS and fonts loading internally." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed issues with CSS and fonts loading internally." />
+    <MESSAGE value="Fixed other issues." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed other issues." />
   </component>
 </project>
