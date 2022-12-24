@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Fixed formatting for projects div." />
+    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Removed trailing slash on void elements for error page.">
+      <change beforePath="$PROJECT_DIR$/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/error.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670220200924</updated>
       <workItem from="1670283368203" duration="16684000" />
-      <workItem from="1671854103195" duration="837000" />
+      <workItem from="1671854103195" duration="1275000" />
     </task>
     <task id="LOCAL-00001" summary="Main website (HTML5) work/backup">
       <created>1670220503510</created>
@@ -416,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671854774811</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Removed trailing slash on void elements for error page.">
+      <created>1671855214333</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1671855214333</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,7 +450,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Removed unnecessary styling." />
     <MESSAGE value="Completed 3rd article." />
     <MESSAGE value="Completed 4th and 5th article." />
     <MESSAGE value="Corrected 5th ID." />
@@ -466,6 +474,7 @@
     <MESSAGE value="Removed trailing slash on void elements" />
     <MESSAGE value="Removed viewport values that prevent users from resizing documents." />
     <MESSAGE value="Fixed formatting for projects div." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed formatting for projects div." />
+    <MESSAGE value="Removed trailing slash on void elements for error page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed trailing slash on void elements for error page." />
   </component>
 </project>
