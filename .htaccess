@@ -40,3 +40,10 @@ DirectoryIndex index.html
   ExpiresByType application/pdf "access plus 1 year"
   ExpiresByType image/vnd.microsoft.icon "access plus 1 year"
 </IfModule>
+
+<IfModule mod_headers.c>
+   <FilesMatch "\.(ttf|ttc|otf|eot|woff|woff2|font.css|css|ico|js|json|html|pdf)$">
+     Header set Access-Control-Allow-Origin "*"
+     Header set Access-Control-Allow-Headers "X-Requested-With"
+   </FilesMatch>
+</IfModule>
