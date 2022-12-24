@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Fixed other issues." />
+    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Removed trailing slash on void elements">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,12 +17,13 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -91,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670220200924</updated>
       <workItem from="1670283368203" duration="16684000" />
-      <workItem from="1671854103195" duration="187000" />
+      <workItem from="1671854103195" duration="546000" />
     </task>
     <task id="LOCAL-00001" summary="Main website (HTML5) work/backup">
       <created>1670220503510</created>
@@ -380,7 +383,28 @@
       <option name="project" value="LOCAL" />
       <updated>1670531351481</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="enabled Symfony2PluginSettings">
+      <created>1671854303232</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1671854303232</updated>
+    </task>
+    <task id="LOCAL-00043" summary="workspace updated.">
+      <created>1671854333060</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1671854333060</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Removed trailing slash on void elements">
+      <created>1671854582197</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1671854582197</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,6 +451,9 @@
     <MESSAGE value="Updated CSS to load fonts internally." />
     <MESSAGE value="Fixed issues with CSS and fonts loading internally." />
     <MESSAGE value="Fixed other issues." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed other issues." />
+    <MESSAGE value="enabled Symfony2PluginSettings" />
+    <MESSAGE value="workspace updated." />
+    <MESSAGE value="Removed trailing slash on void elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed trailing slash on void elements" />
   </component>
 </project>
