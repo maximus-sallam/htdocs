@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Removed trailing slash on void elements for scraping page.">
-      <change beforePath="$PROJECT_DIR$/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy.html" afterDir="false" />
+    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Added html to index.php">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.2">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
       <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
@@ -94,21 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670220200924</updated>
       <workItem from="1670283368203" duration="16684000" />
-      <workItem from="1671854103195" duration="2424000" />
-    </task>
-    <task id="LOCAL-00004" summary="Removed unnecessary styling.">
-      <created>1670221386661</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1670221386661</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Completed 3rd article.">
-      <created>1670222443391</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1670222443391</updated>
+      <workItem from="1671854103195" duration="3170000" />
     </task>
     <task id="LOCAL-00006" summary="Completed 4th and 5th article.">
       <created>1670222926844</created>
@@ -439,7 +426,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671856626010</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Removed trailing slash on void elements for scraping page.">
+      <created>1671856813219</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1671856813219</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Added html to index.php">
+      <created>1671858736775</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1671858736775</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +465,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Corrected 5th ID." />
     <MESSAGE value="Added 7." />
     <MESSAGE value="Added IDs 8, 9, and 10." />
     <MESSAGE value="Fixed formatting in 7." />
@@ -489,6 +489,7 @@
     <MESSAGE value="Removed trailing slash on void elements for error page." />
     <MESSAGE value="Removed trailing slash on void elements for contact page." />
     <MESSAGE value="Removed trailing slash on void elements for scraping page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed trailing slash on void elements for scraping page." />
+    <MESSAGE value="Added html to index.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added html to index.php" />
   </component>
 </project>
