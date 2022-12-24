@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Removed trailing slash on void elements">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Fixed formatting for projects div." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670220200924</updated>
       <workItem from="1670283368203" duration="16684000" />
-      <workItem from="1671854103195" duration="546000" />
+      <workItem from="1671854103195" duration="837000" />
     </task>
     <task id="LOCAL-00001" summary="Main website (HTML5) work/backup">
       <created>1670220503510</created>
@@ -404,7 +402,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671854582197</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Removed viewport values that prevent users from resizing documents.">
+      <created>1671854681779</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1671854681779</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Fixed formatting for projects div.">
+      <created>1671854774811</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1671854774811</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,8 +441,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Main website (HTML5) work/backup" />
-    <MESSAGE value="Updated branding." />
     <MESSAGE value="Removed unnecessary styling." />
     <MESSAGE value="Completed 3rd article." />
     <MESSAGE value="Completed 4th and 5th article." />
@@ -454,6 +464,8 @@
     <MESSAGE value="enabled Symfony2PluginSettings" />
     <MESSAGE value="workspace updated." />
     <MESSAGE value="Removed trailing slash on void elements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed trailing slash on void elements" />
+    <MESSAGE value="Removed viewport values that prevent users from resizing documents." />
+    <MESSAGE value="Fixed formatting for projects div." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed formatting for projects div." />
   </component>
 </project>
