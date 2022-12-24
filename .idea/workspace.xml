@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Removed trailing slash on void elements for error page.">
-      <change beforePath="$PROJECT_DIR$/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/error.html" afterDir="false" />
+    <list default="true" id="a8a83962-393a-4e2f-a636-476c469dbbd2" name="Changes" comment="Removed trailing slash on void elements for contact page.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator.html" beforeDir="false" afterPath="$PROJECT_DIR$/generator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraping.html" beforeDir="false" afterPath="$PROJECT_DIR$/scraping.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,14 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670220200924</updated>
       <workItem from="1670283368203" duration="16684000" />
-      <workItem from="1671854103195" duration="1275000" />
-    </task>
-    <task id="LOCAL-00001" summary="Main website (HTML5) work/backup">
-      <created>1670220503510</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1670220503510</updated>
+      <workItem from="1671854103195" duration="2111000" />
     </task>
     <task id="LOCAL-00002" summary="Updated branding.">
       <created>1670220619893</created>
@@ -425,7 +420,28 @@
       <option name="project" value="LOCAL" />
       <updated>1671855214333</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Removed trailing slash on void elements for error page.">
+      <created>1671855445691</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1671855445691</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Removed trailing slash on void elements for error page.">
+      <created>1671855567789</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1671855567789</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Removed trailing slash on void elements for contact page.">
+      <created>1671855951044</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1671855951044</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,7 +466,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Completed 3rd article." />
     <MESSAGE value="Completed 4th and 5th article." />
     <MESSAGE value="Corrected 5th ID." />
     <MESSAGE value="Added 7." />
@@ -475,6 +490,7 @@
     <MESSAGE value="Removed viewport values that prevent users from resizing documents." />
     <MESSAGE value="Fixed formatting for projects div." />
     <MESSAGE value="Removed trailing slash on void elements for error page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed trailing slash on void elements for error page." />
+    <MESSAGE value="Removed trailing slash on void elements for contact page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed trailing slash on void elements for contact page." />
   </component>
 </project>
