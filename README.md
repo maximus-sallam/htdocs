@@ -1,6 +1,6 @@
 # Maximus Sallam - Personal Portfolio Website
 
-![Maximus Sallam Banner]<div align="center"><img src="images/zebra.webp" alt="Maximus Sallam Banner"></div>
+<div align="center"><img src="images/zebra.webp" alt="Maximus Sallam Banner"></div>
 
 Welcome to the GitHub repository for **[Maximus Sallam's personal website](https://maximus-sallam.com)**! This site serves as a portfolio to showcase my work, projects, and expertise as a renegade Independent Software Engineer specializing in cybersecurity, Linux environments, Android OS, and various programming languages.
 
