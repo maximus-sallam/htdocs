@@ -226,4 +226,43 @@ body {
         font-size: 1rem;
     }
 }
+/* Container for the button */
+.uagb-ifb-button-wrapper {
+    text-align: center; /* Centers the button in its container */
+    margin-top: 20px; /* Adds some space above the button */
+}
+
+/* Button link styling */
+.uagb-infobox-cta-link.wp-block-button__link {
+    display: inline-block; /* Makes the link behave like a button */
+    background-color: #f1c40f; /* Button background color */
+    color: #ffffff; /* Button text color */
+    padding: 12px 25px; /* Adds padding for a comfortable click area */
+    font-size: 1.2rem; /* Font size for the button text */
+    border-radius: 5px; /* Rounds the corners of the button */
+    text-decoration: none; /* Removes underline from the link */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition effects */
+    font-family: 'Poppins', sans-serif; /* Ensures consistent font styling */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow for depth */
+}
+
+/* Hover effects */
+.uagb-infobox-cta-link.wp-block-button__link:hover {
+    background-color: #d4ac0d; /* Darker background color on hover */
+    transform: translateY(-2px); /* Slight lift effect on hover */
+}
+
+/* Active/Clicked effects */
+.uagb-infobox-cta-link.wp-block-button__link:active {
+    transform: translateY(0); /* Resets lift effect */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Adjusts shadow on click */
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+    .uagb-infobox-cta-link.wp-block-button__link {
+        font-size: 1rem; /* Adjusts font size for smaller screens */
+        padding: 10px 20px; /* Adjusts padding for smaller screens */
+    }
+}
 
